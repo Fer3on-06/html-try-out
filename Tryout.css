@@ -1,0 +1,26 @@
+.p0{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p1{
+    width:90%;
+    margin-left: 100px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.Head{
+    text-align: center;
+    padding: 20px;
+    background-color: brown;
+    margin: 0px;
+    position: sticky;
+}
+html, body{
+    margin: 0%;
+    height: 100%;
+}
+.body1{
+    background-color: black;
+    color: white;
+}
